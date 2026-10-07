@@ -1,0 +1,56 @@
+# ---- 构建产物 ----
+build/
+**/build/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+*.su
+MDK-ARM/
+Debug/
+Release/
+ewarm/
+*.uvguix.*
+*.bak
+
+# ---- IDE ----
+.vscode/
+.idea/
+*.swp
+
+# ---- Python ----
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# ---- Node ----
+node_modules/
+
+# ---- 大文件/环境 ----
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.h5
+datasets/
+data/raw/
+data/*.zip
+data/*.7z
+*.7z
+*.zip
+
+# ---- 文献 PDF（有版权限制不入库，清单在 docs/02-literature/）----
+docs/02-literature/pdfs/
+
+# ---- 含个人隐私数据 ----
+*.log.bak
+private/
+
+# ---- 系统 ----
+.DS_Store
+Thumbs.db
