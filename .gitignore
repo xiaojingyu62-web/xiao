@@ -16,6 +16,16 @@ ewarm/
 *.uvguix.*
 *.bak
 
+# ---- Keil MDK ----
+Objects/
+Listings/
+*.crf
+*.axf
+*.dep
+*.lst
+*.uvguix.*
+build.log
+
 # ---- IDE ----
 .vscode/
 .idea/
