@@ -120,7 +120,7 @@
 #define configUSE_TASK_NOTIFICATIONS 1 //开启任务通知功能，默认开启
 
 
-#define configUSE_MUTEXES           0  //互斥信号量开关
+#define configUSE_MUTEXES           1  //互斥信号量开关（I2C总线保护：OLED与BH1750共享）
 
 
                                            

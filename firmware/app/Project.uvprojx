@@ -660,6 +660,16 @@
               <FilePath>.\System\Delay.c</FilePath>
             </File>
             <File>
+              <FileName>dwt_delay.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\System\dwt_delay.c</FilePath>
+            </File>
+            <File>
+              <FileName>dwt_delay.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\System\dwt_delay.h</FilePath>
+            </File>
+            <File>
               <FileName>Delay.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\System\Delay.h</FilePath>
@@ -693,6 +703,26 @@
               <FileName>OLED.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Hardware\OLED.c</FilePath>
+            </File>
+            <File>
+              <FileName>DHT22.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\DHT22.c</FilePath>
+            </File>
+            <File>
+              <FileName>DHT22.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\DHT22.h</FilePath>
+            </File>
+            <File>
+              <FileName>BH1750.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Hardware\BH1750.c</FilePath>
+            </File>
+            <File>
+              <FileName>BH1750.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Hardware\BH1750.h</FilePath>
             </File>
             <File>
               <FileName>OLED.h</FileName>
